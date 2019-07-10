@@ -7,9 +7,7 @@ Mohsin Yaqoob
 Full-stack web developer
 CodeMites, Srinagar, Jammu & Kashmir
 
-+919055404321
-mohsinyqb@gmail.com
-https://mohsinyaqoob.giyhub.io
++919055404321 | mohsinyqb@gmail.com | https://mohsinyaqoob.giyhub.io
 
 
 Happy Coding!
