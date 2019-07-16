@@ -5,7 +5,7 @@ This is an Open-source Php Framework developed by Mohsin Yaqoob which works on t
 #How to Install
 
 For Windows:
-Step 1: Open up the Command Prompt
+Step 1: Open up the Command Prompt\n
 Step 2: cd c:/xampp/htdocs/
 Step 3: git clone https://github.com/mohsinyaqoob/php-framework-mvc.git
 Step 4: cd php-framework-mvc
